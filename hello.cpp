@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, Git & Unit Testing!" << endl;
+    cout << "Welcome to DSA Lab 2!" << endl;
     return 0;
 }
